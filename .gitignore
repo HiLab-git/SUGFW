@@ -1,5 +1,6 @@
-checkpoint/*
-data/*
+checkpoint/sam_vit_b_01ec64.pth
+data/Promise12/*
+data/UTAH/*
 outputs/
 SUGFW.egg-info/
 __pycache__
