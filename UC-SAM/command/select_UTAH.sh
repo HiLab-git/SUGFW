@@ -1,0 +1,1 @@
+python select_samples.py --base_csv_path ../data/UTAH/Foreslices/splits/train.csv --select_ratio 0.001 0.002 0.003 0.005 0.010 0.015 0.020

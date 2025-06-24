@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python get_uncertainty.py --model_type "vit_b" --checkpoint "../checkpoint/sam_vit_b_01ec64.pth" --csv_path "../data/Promise12/Foreslices/splits/train.csv" --k_times_aug "10"

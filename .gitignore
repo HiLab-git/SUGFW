@@ -1,0 +1,7 @@
+checkpoint/*
+data/*
+outputs/
+SUGFW.egg-info/
+__pycache__
+test.py
+test1.py

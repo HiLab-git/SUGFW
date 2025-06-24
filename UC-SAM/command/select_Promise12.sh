@@ -1,0 +1,1 @@
+python select_samples.py --base_csv_path ../data/Promise12/Foreslices/splits/train.csv --select_ratios 0.01 0.02 0.03 0.05 0.10 0.15 0.20

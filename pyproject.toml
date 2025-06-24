@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "SUGFW"
+version = "1.0"
+description = "SUGFW Project"
+authors = [
+    { name = "Xiaochuan Ma", email = "exclusive.xcm@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ftfy",
+    "packaging",
+    "regex",
+    "tqdm",
+    "numpy",
+    "Pillow",
+    "ttach",
+    "opencv-python",
+    "matplotlib",
+    "scikit-learn",
+    "scikit-image",
+    "medpy",
+    "pandas",
+    "pytz"
+]
+
+[tool.setuptools.packages.find]
+include = ["segment-anything*"]
+
+[project.urls]
+Homepage = "https://github.com/Exclusivexc/SUGFW.git"
