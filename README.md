@@ -100,3 +100,13 @@ bash ./command/inference.sh
 ```
 
 ### 4. Citation
+```sh
+@inproceedings{ma2025sugfw,
+  title={SUGFW: A SAM-Based Uncertainty-Guided Feature Weighting Framework for Cold Start Active Learning},
+  author={Ma, Xiaochuan and Fu, Jia and Zhong, Lanfeng and Zhu, Ning and Wang, Guotai},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={579--588},
+  year={2025},
+  organization={Springer}
+}
+```
