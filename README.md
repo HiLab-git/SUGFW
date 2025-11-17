@@ -99,7 +99,7 @@ cd UNet
 bash ./command/inference.sh
 ```
 
-### 4. Citation
+### Citation
 ```sh
 @inproceedings{ma2025sugfw,
   title={SUGFW: A SAM-Based Uncertainty-Guided Feature Weighting Framework for Cold Start Active Learning},
